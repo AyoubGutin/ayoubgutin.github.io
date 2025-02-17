@@ -1,4 +1,4 @@
-# Data Analyst 
+# Data Analyst Apprentice
 
 ### Education 
 A-Levels: Further Maths; Maths; Economics Computer Science 
