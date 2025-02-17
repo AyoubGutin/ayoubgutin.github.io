@@ -9,4 +9,4 @@ Data Analyst Apprentice @ PwC
 
 ### Projects
 Consumer Churn Analysis and Predictions
-Check out the details of the **Customer Churn Project** on my [GitHub Pages site](https://github.com/AyoubGutin/Customer-Churn).
+Check out the details of the **Customer Churn Project** on my [GitHub Pages site](https://ayoubgutin.github.io/customer-churn/).
