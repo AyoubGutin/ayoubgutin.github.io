@@ -1,12 +1,10 @@
 ---
 layout: project-page
-title: "Customer Churn Project"
+title: "Customer Churn Analysis and Predictions"
 permalink: /customer-churn/
 ---
 
-# Customer Churn Analysis
 
----
 
 ## Executive Summary
 This project focuses on providing a high-level visualisations of consumer churn at a fictional company, Telco, and train a machine learning model (Logstic Regression).
