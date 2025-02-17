@@ -5,6 +5,10 @@ permalink: /customer-churn/
 ---
 
 
+# Customer Churn Analysis and Predictions
+
+---
+
 
 ## Executive Summary
 This project focuses on providing a high-level visualisations of consumer churn at a fictional company, Telco, and train a machine learning model (Logstic Regression) to provide a GUI for predicting churn.
