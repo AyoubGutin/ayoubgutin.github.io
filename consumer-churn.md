@@ -26,7 +26,7 @@ A PowerBI dashboard was then created to provide a high level overview of consume
 
 The following **ROC Curve** evaluates the performance of the logisitc regression model in differentiating churners and non-churners. A higher **AUC** (Area Under the Curve) indicates better performance and reliability.
 
-![ROC Curve](#)
+![ROC Curve](assets/ROC_Curve.png)
 
 ---
 
@@ -34,7 +34,7 @@ The following **ROC Curve** evaluates the performance of the logisitc regression
 
 Below is a screenshot of the **PowerBI Dashboard** used for provoding a high level overview of consumer churn using visualisations 
 
-![Dashboard Screenshot](#)
+![Dashboard Screenshot](assets/Dashboard.png)
 
 
 If you'd like to view nad interact with the dashboard in Power BI Desktop, you can download the **PBIX** file from the following link:
