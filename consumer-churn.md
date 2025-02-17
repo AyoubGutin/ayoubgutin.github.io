@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Customer Churn Analysis and Predictions"
+title: "Customer Churn Project"
 permalink: /customer-churn/
 ---
 
