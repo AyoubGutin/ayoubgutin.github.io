@@ -3,8 +3,8 @@
 ##### Technical Skills: Python, SQL, PowerBI, Alteryx
 
 ### Education 
-A-Levels: Further Maths; Maths; Economics Computer Science 
-University: Digital Technology Solutions: Data Analyst, QMUL 
+- A-Levels: Further Maths; Maths; Economics; Computer Science 
+- University: Digital Technology Solutions: Data Analyst, QMUL 
 
 ### Work Experience
 Data Analyst Apprentice @ Pwc | 2024-2028
