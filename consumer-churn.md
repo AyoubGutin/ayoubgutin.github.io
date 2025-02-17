@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project-page
 title: "Customer Churn Project"
 permalink: /customer-churn/
 theme: jekyll-theme-minimal
