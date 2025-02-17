@@ -4,7 +4,7 @@
 
 ### Education 
 - A-Levels: Further Maths; Maths; Economics; Computer Science 
-- University: Digital Technology Solutions: Data Analyst, QMUL 
+- University: Digital Technology Solutions Data Analyst @ QMUL 
 
 ### Work Experience
 Data Analyst Apprentice @ Pwc | 2024-2028
