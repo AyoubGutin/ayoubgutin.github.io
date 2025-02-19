@@ -39,7 +39,7 @@ Below is a screenshot of the **PowerBI Dashboard** used for provoding a high lev
 
 If you'd like to view nad interact with the dashboard in Power BI Desktop, you can download the **PBIX** file from the following link:
 
-- [Download PBIX](https://github.com/AyoubGutin/Customer-Churn/blob/main/CustomerChurnReport.pbix)
+- [Download PBIX from the Repostitory](https://github.com/AyoubGutin/Customer-Churn)
 
 
 ---
