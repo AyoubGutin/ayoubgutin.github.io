@@ -8,8 +8,8 @@
 - University: Digital Technology Solutions Data Analyst @ QMUL 
 
 ### Work Experience
-**Current** - Data Analyst Apprentice @ Pwc | 2024-2028
-Project Manager for Ihsan Consulting | Oct -> Dec 2024
+- **Current** - Data Analyst Apprentice @ Pwc | 2024-2028
+- Project Manager for Ihsan Consulting | Oct -> Dec 2024
 
 
 ### Projects
