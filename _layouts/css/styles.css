@@ -4,3 +4,15 @@ img {
     max-width: 100%;
     display: block;
 }
+
+.content {
+    width: 100%;
+    max-width: 100%;
+    padding: 0;
+    margin: 0;
+    margin: 0 auto; /* Centers the image if it is smaller than the container */
+}
+
+html, body {
+    overflow-x: hidden;
+}
