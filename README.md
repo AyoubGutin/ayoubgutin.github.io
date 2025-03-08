@@ -9,7 +9,7 @@
 
 ### Work Experience
 - **Current** - Data Analyst Apprentice @ Pwc | 2024-2028
-- Project Manager for Ihsan Consulting | Oct -> Dec 2024
+- Project Manager for Ihsan Consulting | Oct-Dec 2024
 
 
 ### Projects
