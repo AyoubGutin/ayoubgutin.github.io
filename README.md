@@ -1,7 +1,7 @@
 # Data Analyst Apprentice
 
 ##### Technical Skills: Python, SQL, PowerBI, Alteryx
-##### Certificates: Alteryx Designer Core, 
+##### Certificates: Alteryx Designer Core, PowerBI Core, Azure Data Fundamentals
 
 ### Education 
 - A-Levels: Further Maths; Maths; Economics; Computer Science 
